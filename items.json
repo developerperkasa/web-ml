@@ -6,7 +6,7 @@
     "price": 2390,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/berserker.jpg"
+    "icon": "Items/berserker.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "price": 3010,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/bod.jpg"
+    "icon": "Items/bod.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "price": 1950,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/heptasis.jpg"
+    "icon": "Items/heptasis.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "price": 2050,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/sabit ijo.jpg"
+    "icon": "Items/sabit ijo.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "price": 2180,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/dhs.jpg"
+    "icon": "Items/dhs.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "price": 2330,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/endless.jpg"
+    "icon": "Items/endless.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "price": 2050,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/fleting time.jpg"
+    "icon": "Items/fleting time.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "price": 2000,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/golden stuf.jpg"
+    "icon": "Items/golden stuf.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "price": 2140,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/gds.jpg"
+    "icon": "Items/gds.jpg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "price": 2020,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/cakar2.jpg"
+    "icon": "Items/cakar2.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "price": 2010,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/hunter strike.jpg"
+    "icon": "Items/hunter strike.jpg"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "price": 2120,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/malefic gun.jpg"
+    "icon": "Items/malefic gun.jpg"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "price": 2060,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/gun.jpg"
+    "icon": "Items/gun.jpg"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "price": 1820,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/rgm.jpg"
+    "icon": "Items/rgm.jpg"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "price": 2050,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/seahalberd.jpg"
+    "icon": "Items/seahalberd.jpg"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "price": 1500,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/sky piercer.jpg"
+    "icon": "Items/sky piercer.jpg"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "price": 2100,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/war axe.jpg"
+    "icon": "Items/war axe.jpg"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "price": 1910,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/won.jpg"
+    "icon": "Items/won.jpg"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "price": 1880,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/wind talker.jpg"
+    "icon": "Items/wind talker.jpg"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "price": 1910,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/winter.jpg"
+    "icon": "Items/winter.jpg"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "price": 910,
     "stats": { "physical_attack": 60 },
     "description": "",
-    "icon": "src/assets/img/pedang.png"
+    "icon": "Items/pedang.png"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "price": 1050,
     "stats": { "lifesteal": 10, "physical_attack": 35 },
     "description": "",
-    "icon": "src/assets/img/pedang biru.png"
+    "icon": "Items/pedang biru.png"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "price": 650,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/kapak.png"
+    "icon": "Items/kapak.png"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "price": 600,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/tombak biasa.png"
+    "icon": "Items/tombak biasa.png"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "price": 1870,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/buku.jpg"
+    "icon": "Items/buku.jpg"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "price": 2030,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/bulu.jpg"
+    "icon": "Items/bulu.jpg"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "price": 1850,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/foto.jpg"
+    "icon": "Items/foto.jpg"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "price": 2000,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/gw.png"
+    "icon": "Items/gw.png"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "price": 2150,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/glowing.png"
+    "icon": "Items/glowing.png"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/lightning.jpg"
+    "icon": "Items/lightning.jpg"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/bw.png"
+    "icon": "Items/bw.png"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/ss.png"
+    "icon": "Items/ss.png"
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/iqw.png"
+    "icon": "Items/iqw.png"
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/ce.png"
+    "icon": "Items/ce.png"
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/holy cristal.jpg"
+    "icon": "Items/holy cristal.jpg"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/devine.jpg"
+    "icon": "Items/devine.jpg"
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/cod.jpg"
+    "icon": "Items/cod.jpg"
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/radian armor.png"
+    "icon": "Items/radian armor.png"
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/twilight armor.jpg"
+    "icon": "Items/twilight armor.jpg"
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/bf.png"
+    "icon": "Items/bf.png"
   },
   {
     "id": 41,
@@ -366,7 +366,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/imortal.png"
+    "icon": "Items/imortal.png"
   },
   {
     "id": 42,
@@ -375,7 +375,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/dominan ice.png"
+    "icon": "Items/dominan ice.png"
   },
   {
     "id": 43,
@@ -384,7 +384,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/athena.jpg"
+    "icon": "Items/athena.jpg"
   },
   {
     "id": 44,
@@ -393,7 +393,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/orekel.jpg"
+    "icon": "Items/orekel.jpg"
   },
   {
     "id": 45,
@@ -402,7 +402,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/antiq.png"
+    "icon": "Items/antiq.png"
   },
   {
     "id": 46,
@@ -411,7 +411,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/helm gojek.png"
+    "icon": "Items/helm gojek.png"
   },
   {
     "id": 47,
@@ -420,7 +420,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/helm bakar.jpg"
+    "icon": "Items/helm bakar.jpg"
   },
   {
     "id": 48,
@@ -429,7 +429,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/tb.png"
+    "icon": "Items/tb.png"
   },
   {
     "id": 49,
@@ -438,7 +438,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/wings.jpg"
+    "icon": "Items/wings.jpg"
   },
   {
     "id": 50,
@@ -447,7 +447,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/blade armor.jpg"
+    "icon": "Items/blade armor.jpg"
   },
   {
     "id": 51,
@@ -456,7 +456,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/sepatu mana.jpg"
+    "icon": "Items/sepatu mana.jpg"
   },
   {
     "id": 52,
@@ -465,7 +465,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/sepatu kenceng.jpg"
+    "icon": "Items/sepatu kenceng.jpg"
   },
   {
     "id": 53,
@@ -474,7 +474,7 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/sepatu mm.png"
+    "icon": "Items/sepatu mm.png"
   },
   {
     "id": 54,
@@ -483,6 +483,6 @@
     "price": 0,
     "stats": {},
     "description": "",
-    "icon": "src/assets/img/sepatu armor.jpg"
+    "icon": "Items/sepatu armor.jpg"
   }
 ]
